@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f77e029.css",
-    "main.js": "/static/js/main.b0f4a78e.js",
+    "main.css": "/static/css/main.0322a844.css",
+    "main.js": "/static/js/main.1dfdae94.js",
+    "static/media/carMustang.obj": "/static/media/carMustang.bd66dfa7f7f21095013d.obj",
     "static/media/cv.pdf": "/static/media/cv.1cbad9bdeb5e983efa39.pdf",
     "static/media/mobile-app.png": "/static/media/mobile-app.616bf6177e4b14821a01.png",
     "static/media/figma5.png": "/static/media/figma5.725dde3a2ba74f19b6fe.png",
@@ -12,11 +13,11 @@
     "static/media/figma3.png": "/static/media/figma3.1b58e1c14a855b0a31b1.png",
     "static/media/figma7.png": "/static/media/figma7.d6b86965cffe482b79f6.png",
     "index.html": "/index.html",
-    "main.4f77e029.css.map": "/static/css/main.4f77e029.css.map",
-    "main.b0f4a78e.js.map": "/static/js/main.b0f4a78e.js.map"
+    "main.0322a844.css.map": "/static/css/main.0322a844.css.map",
+    "main.1dfdae94.js.map": "/static/js/main.1dfdae94.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f77e029.css",
-    "static/js/main.b0f4a78e.js"
+    "static/css/main.0322a844.css",
+    "static/js/main.1dfdae94.js"
   ]
 }

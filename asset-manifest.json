@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.e922b703.css",
-    "main.js": "/static/js/main.2ee66b8a.js",
+    "main.css": "/static/css/main.1c73ea75.css",
+    "main.js": "/static/js/main.37cc836a.js",
     "static/media/carMustang.obj": "/static/media/carMustang.bd66dfa7f7f21095013d.obj",
-    "static/media/cv.pdf": "/static/media/cv.2db7c2dd469ad67fb46b.pdf",
+    "static/media/cv.pdf": "/static/media/cv.70078f71fbe8bea1fdaa.pdf",
     "static/media/mobile-app.png": "/static/media/mobile-app.b4250b25d00ee9e1a759.png",
     "static/media/figma5.png": "/static/media/figma5.725dde3a2ba74f19b6fe.png",
     "static/media/figma4.png": "/static/media/figma4.7562ab348ad987588b72.png",
@@ -13,11 +13,11 @@
     "static/media/figma3.png": "/static/media/figma3.1b58e1c14a855b0a31b1.png",
     "static/media/figma7.png": "/static/media/figma7.d6b86965cffe482b79f6.png",
     "index.html": "/index.html",
-    "main.e922b703.css.map": "/static/css/main.e922b703.css.map",
-    "main.2ee66b8a.js.map": "/static/js/main.2ee66b8a.js.map"
+    "main.1c73ea75.css.map": "/static/css/main.1c73ea75.css.map",
+    "main.37cc836a.js.map": "/static/js/main.37cc836a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e922b703.css",
-    "static/js/main.2ee66b8a.js"
+    "static/css/main.1c73ea75.css",
+    "static/js/main.37cc836a.js"
   ]
 }
